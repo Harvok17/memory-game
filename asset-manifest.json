@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.7f1fae5d.chunk.css",
+    "main.js": "/memory-game/static/js/main.abafb4cb.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.abafb4cb.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.c2a72957.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.c2a72957.js.map",
+    "static/js/2.50762348.chunk.js": "/memory-game/static/js/2.50762348.chunk.js",
+    "static/js/2.50762348.chunk.js.map": "/memory-game/static/js/2.50762348.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.7f1fae5d.chunk.css.map": "/memory-game/static/css/main.7f1fae5d.chunk.css.map",
+    "static/js/2.50762348.chunk.js.LICENSE.txt": "/memory-game/static/js/2.50762348.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/memory-game/static/media/rick-and-morty.2c043f87.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a72957.js",
+    "static/js/2.50762348.chunk.js",
+    "static/css/main.7f1fae5d.chunk.css",
+    "static/js/main.abafb4cb.chunk.js"
+  ]
+}
