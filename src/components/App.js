@@ -68,7 +68,7 @@ const App = () => {
     <>
       <Header bestScore={bestScore} />
       <p className="current-score">Current Score: {currentScore}</p>
-      <Route path="/">
+      <Route path="/memory-game">
         <Board
           characters={characters}
           handleClick={handleClick}

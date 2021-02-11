@@ -5,7 +5,7 @@ import usePath from './usePath';
 const Header = ({ bestScore }) => {
   const currentPath = usePath(window.location.pathname);
   const menu = [
-    { label: 'Memory Game', path: '/' },
+    { label: 'Memory Game', path: '/memory-game' },
     { label: 'How To Play', path: '/instruction' },
   ];
 
