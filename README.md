@@ -5,3 +5,7 @@ This application puts your memory to the test. You are presented with multiple i
 ## Built With:
 
 - React
+
+### Live DEMO:
+
+[Memory Game](https://harvok17.github.io/memory-game/)
